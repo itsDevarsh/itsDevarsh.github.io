@@ -11,7 +11,7 @@ site_description: >-
 
 # Repository
 repo_name: Securityboat/securityboat.github.io
-repo_url: https://github.com/Securityboat/securityboat.github.io
+repo_url: https://github.com/Securityboat/securityboat.github.io/
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -182,7 +182,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-    - Home: https://www.javatpoint.com/java-tutorial
+    - Home: index.md
     - Pentesting:
         - Pentesting/index.md
         - Web Application:
